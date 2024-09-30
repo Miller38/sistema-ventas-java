@@ -1,4 +1,4 @@
-<h2>Sistema Ventas</h2>
+<h2 align="center">Sistema Ventas</h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
