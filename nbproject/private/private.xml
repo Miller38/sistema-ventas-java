@@ -5,9 +5,12 @@
         <group>
             <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/modelo/Conexion.java</file>
             <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/modelo/EntidadVendedor.java</file>
+            <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/vistas/FrmVentas.java</file>
             <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/vistas/FrmLogin.java</file>
             <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/vistas/FrmPrincipal.java</file>
+            <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/vistas/FrmProducto.java</file>
             <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/modelo/VendedorDAO.java</file>
+            <file>file:/C:/Users/miller/Desktop/Sistema%20Ventas/SistemaVentas/src/vistas/FrmVendedor.java</file>
         </group>
     </open-files>
 </project-private>
